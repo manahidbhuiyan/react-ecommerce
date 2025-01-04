@@ -28,7 +28,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 150px auto;
+    margin: 50px auto;
     width: 230px;
     height: 70px;
     border-radius: 75px;
@@ -36,4 +36,5 @@
     color: #787878;
     font-size: 18px;
     font-weight: 500;
+    cursor: pointer;
 }
